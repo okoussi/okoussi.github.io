@@ -15,6 +15,7 @@ table {
     width: 75%;
     min-width: 30%;
     height: 75%;
+    min-height: 50%;
     margin: 20px;
     border: 2px solid beige;
     margin: 30px auto;
