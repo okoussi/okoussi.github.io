@@ -1,0 +1,40 @@
+body {
+    background-image: url('back3.jpg');
+}
+h1,h2 {
+    text-align: center;
+    color: beige;
+    font-family: cursive;
+}
+
+h2{
+    margin-top: 90px;
+}
+
+table {
+    width: 75%;
+    min-width: 30%;
+    height: 75%;
+    margin: 20px;
+    border: 2px solid beige;
+    margin: 30px auto;
+}
+
+td {
+    text-align: left;
+    background-color: rebeccapurple;}
+
+th {
+    text-align: center;
+    background-color: rgb(34, 34, 201);
+}
+
+td,th{
+    padding: 15px;
+    border: 1px solid beige;
+    opacity: 100%;
+    color: rgb(187, 224, 19);
+    font-style: italic;
+    font-weight: bold;
+}
+
